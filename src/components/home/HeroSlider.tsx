@@ -2,7 +2,7 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 import heroStyle from "@/assets/hero-style.jpg";
 import heroFood from "@/assets/hero-food.jpg";
 import heroTravel from "@/assets/hero-travel.jpg";
-import heroWellness from "@/assets/hero-wellness.jpg";
+import heroWellness from "@/assets/hero-wellness-new.jpg";
 
 const slides = [
   { key: 'Style', img: heroStyle, alt: 'NYC street style in SoHo with pastel storefronts', caption: 'Effortless looks and city-ready fits inspired by New York’s streets.' },
