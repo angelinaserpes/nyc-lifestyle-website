@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ddfbfe98-3cf6-4e9d-8743-eb6e8616d5ed) and start prompting.
+Simply visit the [Lovable Project]([https://lovable.dev/projects/ddfbfe98-3cf6-4e9d-8743-eb6e8616d5ed](https://nyc-pastel-palette.lovable.app/)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
